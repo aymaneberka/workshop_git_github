@@ -9,7 +9,7 @@
 		<link rel="stylesheet" href="css/tp1.css">
 	</head>
 	<body>
-		<h1>TP 1 - Exo 1</h1>
+		<h1>tp1----ex1</h1>
 		<hr>
 		<?php
 		date_default_timezone_set('Africa/Casablanca');
