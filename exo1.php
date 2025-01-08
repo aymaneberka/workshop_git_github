@@ -13,6 +13,7 @@
 		<?php
 			echo "Bonjour tout le monde";
 		?>
+		<h2>helllooo</h2>
 		<hr>
 		<?php
 		date_default_timezone_set('Africa/Casablanca');
