@@ -9,7 +9,10 @@
 		<link rel="stylesheet" href="css/tp1.css">
 	</head>
 	<body>
-		<h1>tp1----ex1</h1>
+		<h1>tp1--------ex1</h1>
+		<?php
+			echo "Bonjour tout le monde";
+		?>
 		<hr>
 		<?php
 		date_default_timezone_set('Africa/Casablanca');
